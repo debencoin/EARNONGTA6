@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://earnongta6.onrender.com/sitemap.xml
