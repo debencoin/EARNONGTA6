@@ -29,7 +29,7 @@ Never submit: leaks, datamined or leaked builds, "play early" content, pirated c
 
 ## 2. Review (before any clipping)
 
-**Owner permission rule (2026-11-18):** the page owner confirmed we have full creator permission for every link the owner sends in. For those rows, set `permission` to `granted (owner)` and skip the ask-first step. Credit, leak, spoiler and cutscene checks still apply to every clip.
+**Owner permission rule (2026-11-18):** the page owner confirmed we have full creator permission for every link the owner sends in. For those rows, set `permission` to `granted (owner)` and skip the ask-first step. On-screen and caption credit is optional for owner-submitted links (owner, 2026-11-18: "No need to credit them they gave permission"). Leak, spoiler and cutscene checks still apply to every clip.
 
 A row moves from `new` to `approved` only if every box is checked. Otherwise `rejected` with a reason in `reviewer_notes`.
 
