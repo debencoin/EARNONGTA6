@@ -10,14 +10,14 @@ Faceless GTA 6 fan page. Goal: be the fastest, cleanest, most trusted GTA 6 feed
 |---|---|
 | Page name | EarnOnGTA6 *(confirm)* |
 | Handle | **TBD** (short, contains GTA6, same everywhere) |
-| Platforms | **TBD** (X, Instagram, TikTok, YouTube Shorts, Threads) |
-| Niche angle | **TBD** (tips and hidden spots / fast news / funny moments / cars) |
-| Time zone | America/Phoenix *(assumed, confirm)* |
+| Platforms | TikTok and X first (owner, 2026-11-18). Instagram, Shorts, Threads later. Accounts/handles: **TBD** |
+| Niche angle | All four, rotating: tips and hidden spots, fast news, funny moments, cars and customization (owner, 2026-11-18). Lead lane to pick after week 1 data. |
+| Time zone | America/Phoenix (confirmed) |
 | Awake hours for approvals | **TBD** |
-| Scheduler | Buffer *(confirm plan; never upgrade without asking)* |
-| Clipping tool | **TBD** (OpusClip / Klap / none) |
-| Editor | **TBD** (CapCut / ffmpeg) |
-| Storage | **TBD** (Google Drive / local) |
+| Scheduler | Buffer not connected. Typefully is connected but only to an unrelated account (BRAGUARD), never post GTA content there. TBD |
+| Clipping tool | OpusClip recommended (clips long videos, adds captions, can schedule to TikTok). Connector offered 2026-11-18, not yet connected. Free plan first. |
+| Editor | `tools/make_clip.sh` (ffmpeg) + CapCut for manual edits |
+| Storage | Google Drive (clip request sheet lives there) |
 | Voice | **TBD** (AI voice / text-only / own voice) |
 | Website | https://earnongta6.onrender.com |
 
@@ -86,3 +86,11 @@ Approval requests go to the owner in one message: exact caption + media, reply "
 ## 11. Clipping workflow
 
 See `clipping-workflow.md`. Link intake sheet (editors: owner + earnongta@gmail.com): https://docs.google.com/spreadsheets/d/1ddQn81euZUgyDSng3C2jeZmyJpMXMV2sWlGw8DabQT8/edit
+
+## 12. Rights and platform risk (added 2026-11-18)
+
+- Take-Two says it does not object to fan use of its material for **non-commercial** purposes. Monetizing Rockstar footage is outside that, so expect possible takedowns; licensing requests go to copyright@take2games.com. Get advice before monetizing official footage.
+- Never clip isolated story cutscenes, ending reveals, or edited story sequences: Rockstar removes these.
+- YouTube age-restricts game clips focused on torture or mass violence against non-combatants. No "rampage" clips.
+- Never reclip a repost account. Trace every clip to the original creator, ask permission, credit them.
+- Accounts marked AVOID in `watchlist.md` are never a source.
