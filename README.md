@@ -22,6 +22,8 @@ Static, no build step. Render publishes the repo root on every push to `main`.
 | `scoreboard.csv` | Per-post metrics at 12h / 24h / 72h |
 | `learning.md` | Wins, losses, current rules, weekly reviews |
 | `takedowns.md` | Removal requests and what we did |
+| `clipping-workflow.md` | Link intake → review → edit → QA → schedule |
+| `tools/make_clip.sh` | ffmpeg clip maker: 9:16, hook, captions, credit |
 | `media/official`, `media/raw`, `media/edits` | Source and finished clips (keep large files out of git; use cloud storage) |
 
 `archive/creator-city.html` is the previous version of the site.

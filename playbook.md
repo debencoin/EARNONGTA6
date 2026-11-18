@@ -82,3 +82,7 @@ Every fact goes in `facts.md` with an official link before it's posted. Rumors s
 ## 10. Approvals
 
 Approval requests go to the owner in one message: exact caption + media, reply "yes". **TBD** which categories need approval (default: anything outside the normal mix, any rumor, anything that could read as official).
+
+## 11. Clipping workflow
+
+See `clipping-workflow.md`. Link intake sheet (editors: owner + earnongta@gmail.com): https://docs.google.com/spreadsheets/d/1ddQn81euZUgyDSng3C2jeZmyJpMXMV2sWlGw8DabQT8/edit
