@@ -9,8 +9,8 @@ Faceless GTA 6 fan page. Goal: be the fastest, cleanest, most trusted GTA 6 feed
 | Item | Value |
 |---|---|
 | Page name | EarnOnGTA6 *(confirm)* |
-| Handle | **TBD** (short, contains GTA6, same everywhere) |
-| Platforms | TikTok and X first (owner, 2026-11-18). Instagram, Shorts, Threads later. Accounts/handles: **TBD** |
+| Handle | @earnongta6 on every platform (owner, 2026-11-18) |
+| Platforms | TikTok and X first (owner, 2026-11-18). Instagram, Shorts, Threads later. Handle @earnongta6 |
 | Niche angle | All four, rotating: tips and hidden spots, fast news, funny moments, cars and customization (owner, 2026-11-18). Lead lane to pick after week 1 data. |
 | Time zone | America/Phoenix (confirmed) |
 | Awake hours for approvals | **TBD** |

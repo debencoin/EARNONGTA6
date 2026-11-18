@@ -6,7 +6,8 @@ window.EOG = {
   launchISO: "2026-11-19T00:00:00-07:00",
   launchZoneLabel: "Phoenix time (MST)",
   socials: [
-    // Fill in once handles exist, e.g. { name: "X", url: "https://x.com/HANDLE" }
+    { name: "TikTok", url: "https://www.tiktok.com/@earnongta6" },
+    { name: "X", url: "https://x.com/earnongta6" }
   ],
   news: [
     {
