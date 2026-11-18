@@ -12,6 +12,9 @@ Handles marked *verify* must be confirmed on the first run (check the live page)
 2. **Kick:** OpusClip can't read Kick pages. Use the streamer's official YouTube or Twitch channel or clip channel, or drop the video file into the **Clip Drop** Drive folder: https://drive.google.com/drive/folders/1lYX_jWUWjRmL2wjMVFt2jEq6sQQAu1o9. Every hourly run picks up new files.
 3. Never rip or download streams in ways a platform blocks. That risks bans on our accounts.
 
+## Recording priority (owner, 2026-11-18)
+Record and clip these first whenever they are live on GTA 6: **IShowSpeed, Rakai, Kai Cenat, DeenTheGreat**. Recorders run only when the stream's category is GTA VI / GTA 6.
+
 ## Owner's priority list
 | Who | Where they stream | Handle | Notes |
 |---|---|---|---|

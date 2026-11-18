@@ -1,4 +1,8 @@
-# Channels to record (platform/channel). Edit and restart the script to change.
+# Channels to record (platform/channel). Priority first: recorded and clipped first when live on GTA 6.
+# Kick slugs marked verify: confirm on the live page before relying on them.
+youtube/@IShowSpeed
+kick/rakai          # verify
 twitch/kaicenat
+kick/deenthegreat   # verify
 twitch/charli
 kick/santi
