@@ -41,3 +41,7 @@ Each stream slice is ~15–20 minutes of OpusClip processing. Trial plan had 60 
 ## Multi-streamer recording on the owner's computer
 Cloud browser recording has no audio and cannot run all week. The owner's computer uses `tools/record_streams.sh` (streamlink, one recorder per channel, 30-minute `.ts` files) into the Clip Drop folder. Tested 2026-11-18 from the cloud: Twitch and Kick both produced 1080p video with audio via streamlink.
 Channel list: `streamers-live.txt` (platform/channel per line). Owner edits it.
+
+## Kick GTA events (checked 2026-11-18 from kick.com/events)
+GTA V channels in Kick's live event list at the time of check: **Run Town** (~6.5K viewers, Thai/English), **RespectRP** (~2.2K, Arabic), **nopixel V** (~2.1K, English), **Soulcity** (~1.1K, English/Indian English). xQc also appears on the events page. Channel slugs were not verified for the first four; confirm on the live page before adding to streamers-live.txt.
+Note: an account password was pasted into project chat on 2026-11-18. Do not reuse it; the owner should change it. Account sign-ups are for the owner to do or to approve, with credentials kept out of chat.
