@@ -7,6 +7,11 @@ Credit rule (owner decision): streamers the owner did not send get 🎥 @handle 
 
 Handles marked *verify* must be confirmed on the first run (check the live page) before clipping. Never clip an impersonator account.
 
+## Getting Kick and Twitch footage (no bypassing)
+1. **Twitch:** works directly. Past-broadcast VOD links (twitch.tv/videos/...) appear while the stream is still live, unless the streamer turned VODs off.
+2. **Kick:** OpusClip can't read Kick pages. Use the streamer's official YouTube or Twitch channel or clip channel, or drop the video file into the **Clip Drop** Drive folder: https://drive.google.com/drive/folders/1lYX_jWUWjRmL2wjMVFt2jEq6sQQAu1o9. Every hourly run picks up new files.
+3. Never rip or download streams in ways a platform blocks. That risks bans on our accounts.
+
 ## Owner's priority list
 | Who | Where they stream | Handle | Notes |
 |---|---|---|---|
