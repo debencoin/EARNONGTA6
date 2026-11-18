@@ -92,3 +92,20 @@ In Buffer: confirm the channel name and avatar, set an explicit time in America/
 - `log.md`: time, platform, text, media, credit, link.
 - `scoreboard.csv`: fill views and engagement at 12h, 24h, 72h. Blank if unknown, never guess.
 - Takedown request: remove the same day, set the row to `taken down`, log it in `takedowns.md`.
+
+## 8. Gameplay → tips and guides (starts after launch, Nov 19)
+
+Goal: turn the best gameplay videos into (a) short tip clips and (b) written guides on the website, focused on tips, hidden spots, and **in-game** money.
+
+1. **Find the video.** Each morning and evening, check the watchlist creators (TGG, MrBossFTW, GTASeriesVideos, Caylus, broughy1322 for cars) and the owner's submitted links for new GTA 6 guide/gameplay videos. Prefer videos titled "money", "tips", "secrets", "things you missed", "best cars".
+2. **Clip it in OpusClip** with this prompt: `GTA 6 tips page. Find moments that show a specific tip, hidden spot, money method, or car location. Start on the payoff. 7 to 30 seconds. No story spoilers or cutscenes.`
+3. **Pull the transcript** (OpusClip `get_transcript`) and extract every concrete tip: what, where, how much, how long. Only keep tips that the video actually shows working.
+4. **Write the guide** in `guides/<slug>.md` and add it to the `guides` list in `data.js` (the site shows a Guides section once there's one guide):
+   - Title: "HOW TO [goal] IN GTA 6" (e.g. HOW TO MAKE MONEY FAST IN GTA 6)
+   - 3 to 7 numbered steps, each one action
+   - "Source: [video title] by [creator]" line (or owner-submitted, credit optional)
+   - Date checked. Re-check if a patch changes it.
+5. **Post it three ways:** tip clip (captions per `caption-style.md`), a HOW TO text post on X, and the guide on the site.
+6. Log in `log.md` and `scoreboard.csv`.
+
+Money guides are about **in-game** GTA dollars only. Never present them as ways to earn real money.

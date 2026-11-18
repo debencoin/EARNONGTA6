@@ -58,6 +58,8 @@ window.EOG = {
       ]
     }
   ],
+  // Written guides from gameplay videos (after launch). Each: { title, steps: [...], source, date }
+  guides: [],
   clips: [
     { title: "Grand Theft Auto VI Trailer 1", youtube: "QdBZY2fkU-0", credit: "@RockstarGames", creditUrl: "https://www.youtube.com/@RockstarGames" },
     { title: "Grand Theft Auto VI Trailer 2", youtube: "VQRLujxTm3c", credit: "@RockstarGames", creditUrl: "https://www.youtube.com/@RockstarGames" }

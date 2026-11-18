@@ -142,6 +142,14 @@ footer p{margin:6px 0}
     </div>
   </section>
 
+  <section id="guides" aria-labelledby="guidesh" hidden>
+    <div class="wrap">
+      <h2 id="guidesh">Guides</h2>
+      <p class="sub">Tips, hidden spots and in-game money, pulled from real gameplay.</p>
+      <div class="grid" id="guideGrid"></div>
+    </div>
+  </section>
+
   <section id="clips" aria-labelledby="clipsh">
     <div class="wrap">
       <h2 id="clipsh">Clips</h2>
@@ -230,6 +238,22 @@ footer p{margin:6px 0}
     var ol = el("ol"); t.steps.forEach(function(s){ol.appendChild(el("li",null,s));}); c.appendChild(ol);
     tg.appendChild(c);
   });
+
+  // Guides (section stays hidden until the first guide exists)
+  if ((D.guides||[]).length) {
+    document.getElementById("guides").hidden = false;
+    var nl = document.createElement("a"); nl.href = "#guides"; nl.textContent = "Guides";
+    var tl = document.querySelector('nav a[href="#tips"]'); tl.after(nl);
+    var gg = document.getElementById("guideGrid");
+    D.guides.forEach(function(g){
+      var c = el("article","card tip");
+      if (g.date) c.appendChild(el("div","meta", g.date));
+      c.appendChild(el("h3",null,g.title.replace(/^HOW TO\s*/i,"")));
+      var ol = el("ol"); g.steps.forEach(function(s){ol.appendChild(el("li",null,s));}); c.appendChild(ol);
+      if (g.source) c.appendChild(el("div","credit","Source: " + g.source));
+      gg.appendChild(c);
+    });
+  }
 
   // Clips (click-to-load YouTube, keeps the page fast)
   var cg = document.getElementById("clipGrid");
