@@ -79,6 +79,20 @@ Leonida's social feed is unhinged.
 🎥 @RockstarGames
 #GTA6 #GTA6EasterEggs
 
+### 6. 3 ways creators make money around GTA 6 (P3111806lLnl / bBi17yZlD0, 42s, owner-submitted, no credit)
+Video covers editing gameplay for creators, publishing guides, and streaming, and says income depends on audience and demand. Kept at 42s so that caveat stays in.
+
+**TikTok:**
+3 ways people are making money around GTA 6 💰
+Editing, guides, streaming. Which one would you try first? 👇 Save this for launch week.
+#GTA6 #GTAVI #GTA6Money #GamingCreator #ContentCreation #fyp
+
+**X:**
+3 ways creators are making money around GTA 6 💰
+
+Which one are you trying? 👇
+#GTA6 #GTA6Money
+
 Posting order (Phoenix time): #1 tonight before launch, #5 launch morning, #2 midday, #4 afternoon, #3 evening.
 
 ## Skipped
