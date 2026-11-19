@@ -1,0 +1,36 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Arial Black,96,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,7,3,5,40,40,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.50,0:00:01.06,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}COFFEE{\c&HFFFFFF&} BUT THIS
+Dialogue: 0,0:00:01.06,0:00:05.36,Cap,,0,0,0,,{\pos(540,640)}COFFEE {\c&H27F804&}BUT{\c&HFFFFFF&} THIS
+Dialogue: 0,0:00:05.36,0:00:07.80,Cap,,0,0,0,,{\pos(540,640)}COFFEE BUT {\c&H27F804&}THIS{\c&HFFFFFF&}
+Dialogue: 0,0:00:07.80,0:00:07.90,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}IS{\c&HFFFFFF&} LIKE LIKE
+Dialogue: 0,0:00:07.90,0:00:08.04,Cap,,0,0,0,,{\pos(540,640)}IS {\c&H27F804&}LIKE{\c&HFFFFFF&} LIKE
+Dialogue: 0,0:00:08.04,0:00:08.22,Cap,,0,0,0,,{\pos(540,640)}IS LIKE {\c&H27F804&}LIKE{\c&HFFFFFF&}
+Dialogue: 0,0:00:08.22,0:00:08.38,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}THE{\c&HFFFFFF&} LAST OF
+Dialogue: 0,0:00:08.38,0:00:08.70,Cap,,0,0,0,,{\pos(540,640)}THE {\c&H27F804&}LAST{\c&HFFFFFF&} OF
+Dialogue: 0,0:00:08.70,0:00:08.86,Cap,,0,0,0,,{\pos(540,640)}THE LAST {\c&H27F804&}OF{\c&HFFFFFF&}
+Dialogue: 0,0:00:08.86,0:00:08.98,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}US{\c&HFFFFFF&} LIKE THIS
+Dialogue: 0,0:00:08.98,0:00:09.14,Cap,,0,0,0,,{\pos(540,640)}US {\c&H27F804&}LIKE{\c&HFFFFFF&} THIS
+Dialogue: 0,0:00:09.14,0:00:09.26,Cap,,0,0,0,,{\pos(540,640)}US LIKE {\c&H27F804&}THIS{\c&HFFFFFF&}
+Dialogue: 0,0:00:09.26,0:00:09.36,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}IS{\c&HFFFFFF&} LIKE IF
+Dialogue: 0,0:00:09.36,0:00:09.48,Cap,,0,0,0,,{\pos(540,640)}IS {\c&H27F804&}LIKE{\c&HFFFFFF&} IF
+Dialogue: 0,0:00:09.48,0:00:09.60,Cap,,0,0,0,,{\pos(540,640)}IS LIKE {\c&H27F804&}IF{\c&HFFFFFF&}
+Dialogue: 0,0:00:09.60,0:00:09.74,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}THE{\c&HFFFFFF&} LAST OF
+Dialogue: 0,0:00:09.74,0:00:09.96,Cap,,0,0,0,,{\pos(540,640)}THE {\c&H27F804&}LAST{\c&HFFFFFF&} OF
+Dialogue: 0,0:00:09.96,0:00:10.08,Cap,,0,0,0,,{\pos(540,640)}THE LAST {\c&H27F804&}OF{\c&HFFFFFF&}
+Dialogue: 0,0:00:10.08,0:00:10.16,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}US{\c&HFFFFFF&} HAD A
+Dialogue: 0,0:00:10.16,0:00:10.26,Cap,,0,0,0,,{\pos(540,640)}US {\c&H27F804&}HAD{\c&HFFFFFF&} A
+Dialogue: 0,0:00:10.26,0:00:10.34,Cap,,0,0,0,,{\pos(540,640)}US HAD {\c&H27F804&}A{\c&HFFFFFF&}
+Dialogue: 0,0:00:10.34,0:00:10.48,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}BABY{\c&HFFFFFF&} WITH GTA
+Dialogue: 0,0:00:10.48,0:00:10.62,Cap,,0,0,0,,{\pos(540,640)}BABY {\c&H27F804&}WITH{\c&HFFFFFF&} GTA
+Dialogue: 0,0:00:10.62,0:00:11.29,Cap,,0,0,0,,{\pos(540,640)}BABY WITH {\c&H27F804&}GTA{\c&HFFFFFF&}

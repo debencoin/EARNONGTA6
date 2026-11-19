@@ -1,0 +1,30 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Arial Black,96,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,7,3,5,40,40,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.28,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}HOLD{\c&HFFFFFF&} ON NOW,
+Dialogue: 0,0:00:00.28,0:00:00.50,Cap,,0,0,0,,{\pos(540,640)}HOLD {\c&H27F804&}ON{\c&HFFFFFF&} NOW,
+Dialogue: 0,0:00:00.50,0:00:01.48,Cap,,0,0,0,,{\pos(540,640)}HOLD ON {\c&H27F804&}NOW,{\c&HFFFFFF&}
+Dialogue: 0,0:00:01.48,0:00:02.42,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}IT'S{\c&HFFFFFF&} A HELLCAT?
+Dialogue: 0,0:00:02.42,0:00:02.50,Cap,,0,0,0,,{\pos(540,640)}IT'S {\c&H27F804&}A{\c&HFFFFFF&} HELLCAT?
+Dialogue: 0,0:00:02.50,0:00:03.29,Cap,,0,0,0,,{\pos(540,640)}IT'S A {\c&H27F804&}HELLCAT?{\c&HFFFFFF&}
+Dialogue: 0,0:00:06.62,0:00:07.46,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}YO,{\c&HFFFFFF&} IT'S A
+Dialogue: 0,0:00:07.46,0:00:08.30,Cap,,0,0,0,,{\pos(540,640)}YO, {\c&H27F804&}IT'S{\c&HFFFFFF&} A
+Dialogue: 0,0:00:08.30,0:00:08.38,Cap,,0,0,0,,{\pos(540,640)}YO, IT'S {\c&H27F804&}A{\c&HFFFFFF&}
+Dialogue: 0,0:00:08.38,0:00:09.31,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}HELLCAT.{\c&HFFFFFF&}
+Dialogue: 0,0:00:11.78,0:00:12.18,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}VEHICLES{\c&HFFFFFF&} IN YOUR
+Dialogue: 0,0:00:12.18,0:00:12.58,Cap,,0,0,0,,{\pos(540,640)}VEHICLES {\c&H27F804&}IN{\c&HFFFFFF&} YOUR
+Dialogue: 0,0:00:12.58,0:00:12.72,Cap,,0,0,0,,{\pos(540,640)}VEHICLES IN {\c&H27F804&}YOUR{\c&HFFFFFF&}
+Dialogue: 0,0:00:12.72,0:00:13.16,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}NEIGHBORHOOD{\c&HFFFFFF&}
+Dialogue: 0,0:00:13.16,0:00:13.88,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}CAN'T{\c&HFFFFFF&} BE STOLEN?
+Dialogue: 0,0:00:13.88,0:00:14.02,Cap,,0,0,0,,{\pos(540,640)}CAN'T {\c&H27F804&}BE{\c&HFFFFFF&} STOLEN?
+Dialogue: 0,0:00:14.02,0:00:14.83,Cap,,0,0,0,,{\pos(540,640)}CAN'T BE {\c&H27F804&}STOLEN?{\c&HFFFFFF&}
+Dialogue: 0,0:00:15.62,0:00:16.23,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}WHAT?{\c&HFFFFFF&}
