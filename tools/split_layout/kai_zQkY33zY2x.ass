@@ -1,0 +1,105 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Arial Black,96,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,7,3,5,40,40,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.20,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}WANT{\c&HFFFFFF&} TO START
+Dialogue: 0,0:00:00.20,0:00:00.36,Cap,,0,0,0,,{\pos(540,640)}WANT {\c&H27F804&}TO{\c&HFFFFFF&} START
+Dialogue: 0,0:00:00.36,0:00:00.52,Cap,,0,0,0,,{\pos(540,640)}WANT TO {\c&H27F804&}START{\c&HFFFFFF&}
+Dialogue: 0,0:00:00.52,0:00:00.72,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}ON{\c&HFFFFFF&} THE ENGINE?
+Dialogue: 0,0:00:00.72,0:00:00.84,Cap,,0,0,0,,{\pos(540,640)}ON {\c&H27F804&}THE{\c&HFFFFFF&} ENGINE?
+Dialogue: 0,0:00:00.84,0:00:01.49,Cap,,0,0,0,,{\pos(540,640)}ON THE {\c&H27F804&}ENGINE?{\c&HFFFFFF&}
+Dialogue: 0,0:00:01.76,0:00:01.81,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}YEAH,{\c&HFFFFFF&} WHAT CAN
+Dialogue: 0,0:00:01.76,0:00:03.06,Cap,,0,0,0,,{\pos(540,640)}YEAH, {\c&H27F804&}WHAT{\c&HFFFFFF&} CAN
+Dialogue: 0,0:00:03.06,0:00:03.18,Cap,,0,0,0,,{\pos(540,640)}YEAH, WHAT {\c&H27F804&}CAN{\c&HFFFFFF&}
+Dialogue: 0,0:00:03.18,0:00:03.32,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}I{\c&HFFFFFF&} AFFORD?
+Dialogue: 0,0:00:03.32,0:00:03.97,Cap,,0,0,0,,{\pos(540,640)}I {\c&H27F804&}AFFORD?{\c&HFFFFFF&}
+Dialogue: 0,0:00:04.60,0:00:04.66,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}YOU{\c&HFFFFFF&} KNOW, LIKE
+Dialogue: 0,0:00:04.66,0:00:04.92,Cap,,0,0,0,,{\pos(540,640)}YOU {\c&H27F804&}KNOW,{\c&HFFFFFF&} LIKE
+Dialogue: 0,0:00:04.92,0:00:05.18,Cap,,0,0,0,,{\pos(540,640)}YOU KNOW, {\c&H27F804&}LIKE{\c&HFFFFFF&}
+Dialogue: 0,0:00:05.18,0:00:05.38,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}WHAT{\c&HFFFFFF&} CAN I
+Dialogue: 0,0:00:05.38,0:00:05.54,Cap,,0,0,0,,{\pos(540,640)}WHAT {\c&H27F804&}CAN{\c&HFFFFFF&} I
+Dialogue: 0,0:00:05.54,0:00:05.68,Cap,,0,0,0,,{\pos(540,640)}WHAT CAN {\c&H27F804&}I{\c&HFFFFFF&}
+Dialogue: 0,0:00:05.68,0:00:06.02,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}GODDAMN{\c&HFFFFFF&} AFFORD?
+Dialogue: 0,0:00:06.02,0:00:06.77,Cap,,0,0,0,,{\pos(540,640)}GODDAMN {\c&H27F804&}AFFORD?{\c&HFFFFFF&}
+Dialogue: 0,0:00:09.40,0:00:09.80,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}YOU{\c&HFFFFFF&} STILL GOT
+Dialogue: 0,0:00:09.80,0:00:09.98,Cap,,0,0,0,,{\pos(540,640)}YOU {\c&H27F804&}STILL{\c&HFFFFFF&} GOT
+Dialogue: 0,0:00:09.98,0:00:10.14,Cap,,0,0,0,,{\pos(540,640)}YOU STILL {\c&H27F804&}GOT{\c&HFFFFFF&}
+Dialogue: 0,0:00:10.14,0:00:10.40,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}ENGINE{\c&HFFFFFF&} GO SMOOTH
+Dialogue: 0,0:00:10.40,0:00:10.80,Cap,,0,0,0,,{\pos(540,640)}ENGINE {\c&H27F804&}GO{\c&HFFFFFF&} SMOOTH
+Dialogue: 0,0:00:10.80,0:00:11.98,Cap,,0,0,0,,{\pos(540,640)}ENGINE GO {\c&H27F804&}SMOOTH{\c&HFFFFFF&}
+Dialogue: 0,0:00:11.98,0:00:12.50,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}AS{\c&HFFFFFF&} BUTTER
+Dialogue: 0,0:00:12.50,0:00:13.31,Cap,,0,0,0,,{\pos(540,640)}AS {\c&H27F804&}BUTTER{\c&HFFFFFF&}
+Dialogue: 0,0:00:13.48,0:00:13.88,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}LIKE{\c&HFFFFFF&} I SAID,
+Dialogue: 0,0:00:13.88,0:00:14.04,Cap,,0,0,0,,{\pos(540,640)}LIKE {\c&H27F804&}I{\c&HFFFFFF&} SAID,
+Dialogue: 0,0:00:14.04,0:00:14.42,Cap,,0,0,0,,{\pos(540,640)}LIKE I {\c&H27F804&}SAID,{\c&HFFFFFF&}
+Dialogue: 0,0:00:14.42,0:00:14.82,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}I'LL{\c&HFFFFFF&} THROW IN
+Dialogue: 0,0:00:14.82,0:00:15.00,Cap,,0,0,0,,{\pos(540,640)}I'LL {\c&H27F804&}THROW{\c&HFFFFFF&} IN
+Dialogue: 0,0:00:15.00,0:00:15.16,Cap,,0,0,0,,{\pos(540,640)}I'LL THROW {\c&H27F804&}IN{\c&HFFFFFF&}
+Dialogue: 0,0:00:15.16,0:00:15.32,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}A{\c&HFFFFFF&} RESPRAY, TOO
+Dialogue: 0,0:00:15.32,0:00:15.80,Cap,,0,0,0,,{\pos(540,640)}A {\c&H27F804&}RESPRAY,{\c&HFFFFFF&} TOO
+Dialogue: 0,0:00:15.80,0:00:16.63,Cap,,0,0,0,,{\pos(540,640)}A RESPRAY, {\c&H27F804&}TOO{\c&HFFFFFF&}
+Dialogue: 0,0:00:16.70,0:00:17.10,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}YEAH,{\c&HFFFFFF&} LET ME
+Dialogue: 0,0:00:17.10,0:00:17.22,Cap,,0,0,0,,{\pos(540,640)}YEAH, {\c&H27F804&}LET{\c&HFFFFFF&} ME
+Dialogue: 0,0:00:17.22,0:00:17.34,Cap,,0,0,0,,{\pos(540,640)}YEAH, LET {\c&H27F804&}ME{\c&HFFFFFF&}
+Dialogue: 0,0:00:17.34,0:00:17.50,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}LET{\c&HFFFFFF&} ME LET
+Dialogue: 0,0:00:17.50,0:00:17.62,Cap,,0,0,0,,{\pos(540,640)}LET {\c&H27F804&}ME{\c&HFFFFFF&} LET
+Dialogue: 0,0:00:17.62,0:00:17.74,Cap,,0,0,0,,{\pos(540,640)}LET ME {\c&H27F804&}LET{\c&HFFFFFF&}
+Dialogue: 0,0:00:17.74,0:00:17.82,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}ME{\c&HFFFFFF&} GET A
+Dialogue: 0,0:00:17.82,0:00:17.90,Cap,,0,0,0,,{\pos(540,640)}ME {\c&H27F804&}GET{\c&HFFFFFF&} A
+Dialogue: 0,0:00:17.90,0:00:17.96,Cap,,0,0,0,,{\pos(540,640)}ME GET {\c&H27F804&}A{\c&HFFFFFF&}
+Dialogue: 0,0:00:17.96,0:00:18.24,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}RESPRAY{\c&HFFFFFF&} MY BOY.
+Dialogue: 0,0:00:18.24,0:00:18.38,Cap,,0,0,0,,{\pos(540,640)}RESPRAY {\c&H27F804&}MY{\c&HFFFFFF&} BOY.
+Dialogue: 0,0:00:18.38,0:00:18.72,Cap,,0,0,0,,{\pos(540,640)}RESPRAY MY {\c&H27F804&}BOY.{\c&HFFFFFF&}
+Dialogue: 0,0:00:18.72,0:00:19.12,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}OH{\c&HFFFFFF&} MY GOSH.
+Dialogue: 0,0:00:19.12,0:00:19.36,Cap,,0,0,0,,{\pos(540,640)}OH {\c&H27F804&}MY{\c&HFFFFFF&} GOSH.
+Dialogue: 0,0:00:19.36,0:00:19.90,Cap,,0,0,0,,{\pos(540,640)}OH MY {\c&H27F804&}GOSH.{\c&HFFFFFF&}
+Dialogue: 0,0:00:19.90,0:00:20.06,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}HEY,{\c&HFFFFFF&} OH
+Dialogue: 0,0:00:20.06,0:00:20.61,Cap,,0,0,0,,{\pos(540,640)}HEY, {\c&H27F804&}OH{\c&HFFFFFF&}
+Dialogue: 0,0:00:22.04,0:00:22.24,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}MY{\c&HFFFFFF&} GOD, WHAT
+Dialogue: 0,0:00:22.24,0:00:22.70,Cap,,0,0,0,,{\pos(540,640)}MY {\c&H27F804&}GOD,{\c&HFFFFFF&} WHAT
+Dialogue: 0,0:00:22.70,0:00:23.32,Cap,,0,0,0,,{\pos(540,640)}MY GOD, {\c&H27F804&}WHAT{\c&HFFFFFF&}
+Dialogue: 0,0:00:23.32,0:00:23.48,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}KIND{\c&HFFFFFF&} OF SHOULD
+Dialogue: 0,0:00:23.48,0:00:23.60,Cap,,0,0,0,,{\pos(540,640)}KIND {\c&H27F804&}OF{\c&HFFFFFF&} SHOULD
+Dialogue: 0,0:00:23.60,0:00:23.70,Cap,,0,0,0,,{\pos(540,640)}KIND OF {\c&H27F804&}SHOULD{\c&HFFFFFF&}
+Dialogue: 0,0:00:23.70,0:00:23.82,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}I{\c&HFFFFFF&} GO?
+Dialogue: 0,0:00:23.82,0:00:24.10,Cap,,0,0,0,,{\pos(540,640)}I {\c&H27F804&}GO?{\c&HFFFFFF&}
+Dialogue: 0,0:00:24.10,0:00:24.12,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}I{\c&HFFFFFF&} GOT TO
+Dialogue: 0,0:00:24.12,0:00:24.28,Cap,,0,0,0,,{\pos(540,640)}I {\c&H27F804&}GOT{\c&HFFFFFF&} TO
+Dialogue: 0,0:00:24.28,0:00:24.44,Cap,,0,0,0,,{\pos(540,640)}I GOT {\c&H27F804&}TO{\c&HFFFFFF&}
+Dialogue: 0,0:00:24.44,0:00:24.58,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}GO{\c&HFFFFFF&} BLACK OR
+Dialogue: 0,0:00:24.58,0:00:24.86,Cap,,0,0,0,,{\pos(540,640)}GO {\c&H27F804&}BLACK{\c&HFFFFFF&} OR
+Dialogue: 0,0:00:24.86,0:00:25.10,Cap,,0,0,0,,{\pos(540,640)}GO BLACK {\c&H27F804&}OR{\c&HFFFFFF&}
+Dialogue: 0,0:00:25.10,0:00:25.26,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}SOME{\c&HFFFFFF&} SERIOUS
+Dialogue: 0,0:00:25.26,0:00:25.60,Cap,,0,0,0,,{\pos(540,640)}SOME {\c&H27F804&}SERIOUS{\c&HFFFFFF&}
+Dialogue: 0,0:00:25.60,0:00:25.98,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}SH*T,{\c&HFFFFFF&} BUT I
+Dialogue: 0,0:00:25.98,0:00:26.32,Cap,,0,0,0,,{\pos(540,640)}SH*T, {\c&H27F804&}BUT{\c&HFFFFFF&} I
+Dialogue: 0,0:00:26.32,0:00:26.44,Cap,,0,0,0,,{\pos(540,640)}SH*T, BUT {\c&H27F804&}I{\c&HFFFFFF&}
+Dialogue: 0,0:00:26.44,0:00:26.72,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}PICTURE{\c&HFFFFFF&} YOU UP
+Dialogue: 0,0:00:26.72,0:00:27.00,Cap,,0,0,0,,{\pos(540,640)}PICTURE {\c&H27F804&}YOU{\c&HFFFFFF&} UP
+Dialogue: 0,0:00:27.00,0:00:27.20,Cap,,0,0,0,,{\pos(540,640)}PICTURE YOU {\c&H27F804&}UP{\c&HFFFFFF&}
+Dialogue: 0,0:00:27.20,0:00:27.38,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}LIKE{\c&HFFFFFF&} DAMN NOW
+Dialogue: 0,0:00:27.38,0:00:27.76,Cap,,0,0,0,,{\pos(540,640)}LIKE {\c&H27F804&}DAMN{\c&HFFFFFF&} NOW
+Dialogue: 0,0:00:27.76,0:00:27.90,Cap,,0,0,0,,{\pos(540,640)}LIKE DAMN {\c&H27F804&}NOW{\c&HFFFFFF&}
+Dialogue: 0,0:00:27.90,0:00:28.78,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}I{\c&HFFFFFF&} THINK I
+Dialogue: 0,0:00:28.78,0:00:28.92,Cap,,0,0,0,,{\pos(540,640)}I {\c&H27F804&}THINK{\c&HFFFFFF&} I
+Dialogue: 0,0:00:28.92,0:00:29.04,Cap,,0,0,0,,{\pos(540,640)}I THINK {\c&H27F804&}I{\c&HFFFFFF&}
+Dialogue: 0,0:00:29.04,0:00:29.18,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}MIGHT{\c&HFFFFFF&} GO
+Dialogue: 0,0:00:29.18,0:00:30.11,Cap,,0,0,0,,{\pos(540,640)}MIGHT {\c&H27F804&}GO{\c&HFFFFFF&}
+Dialogue: 0,0:00:38.40,0:00:38.84,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}SHE'LL{\c&HFFFFFF&} LOOK LIKE
+Dialogue: 0,0:00:38.84,0:00:38.96,Cap,,0,0,0,,{\pos(540,640)}SHE'LL {\c&H27F804&}LOOK{\c&HFFFFFF&} LIKE
+Dialogue: 0,0:00:38.96,0:00:39.14,Cap,,0,0,0,,{\pos(540,640)}SHE'LL LOOK {\c&H27F804&}LIKE{\c&HFFFFFF&}
+Dialogue: 0,0:00:39.14,0:00:39.34,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}SHE{\c&HFFFFFF&} JUST ROLLED
+Dialogue: 0,0:00:39.34,0:00:39.62,Cap,,0,0,0,,{\pos(540,640)}SHE {\c&H27F804&}JUST{\c&HFFFFFF&} ROLLED
+Dialogue: 0,0:00:39.62,0:00:39.92,Cap,,0,0,0,,{\pos(540,640)}SHE JUST {\c&H27F804&}ROLLED{\c&HFFFFFF&}
+Dialogue: 0,0:00:39.92,0:00:40.16,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}OFF{\c&HFFFFFF&} THE LINE
+Dialogue: 0,0:00:40.16,0:00:40.34,Cap,,0,0,0,,{\pos(540,640)}OFF {\c&H27F804&}THE{\c&HFFFFFF&} LINE
+Dialogue: 0,0:00:40.34,0:00:40.84,Cap,,0,0,0,,{\pos(540,640)}OFF THE {\c&H27F804&}LINE{\c&HFFFFFF&}
+Dialogue: 0,0:00:40.84,0:00:41.47,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}MAN{\c&HFFFFFF&}
