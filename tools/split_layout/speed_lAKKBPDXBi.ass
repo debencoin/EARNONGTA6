@@ -1,0 +1,79 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Arial Black,96,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,7,3,5,40,40,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.10,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}THIS{\c&HFFFFFF&} IS MY
+Dialogue: 0,0:00:00.10,0:00:00.18,Cap,,0,0,0,,{\pos(540,640)}THIS {\c&H27F804&}IS{\c&HFFFFFF&} MY
+Dialogue: 0,0:00:00.18,0:00:00.30,Cap,,0,0,0,,{\pos(540,640)}THIS IS {\c&H27F804&}MY{\c&HFFFFFF&}
+Dialogue: 0,0:00:00.30,0:00:00.56,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}FIRST{\c&HFFFFFF&} TIME IN
+Dialogue: 0,0:00:00.56,0:00:00.78,Cap,,0,0,0,,{\pos(540,640)}FIRST {\c&H27F804&}TIME{\c&HFFFFFF&} IN
+Dialogue: 0,0:00:00.78,0:00:00.90,Cap,,0,0,0,,{\pos(540,640)}FIRST TIME {\c&H27F804&}IN{\c&HFFFFFF&}
+Dialogue: 0,0:00:00.90,0:00:01.04,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}THE{\c&HFFFFFF&} CITY!
+Dialogue: 0,0:00:01.04,0:00:01.52,Cap,,0,0,0,,{\pos(540,640)}THE {\c&H27F804&}CITY!{\c&HFFFFFF&}
+Dialogue: 0,0:00:01.52,0:00:01.57,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}THEY{\c&HFFFFFF&} KNOW IT
+Dialogue: 0,0:00:01.52,0:00:01.70,Cap,,0,0,0,,{\pos(540,640)}THEY {\c&H27F804&}KNOW{\c&HFFFFFF&} IT
+Dialogue: 0,0:00:01.70,0:00:01.78,Cap,,0,0,0,,{\pos(540,640)}THEY KNOW {\c&H27F804&}IT{\c&HFFFFFF&}
+Dialogue: 0,0:00:01.78,0:00:01.94,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}AIN'T{\c&HFFFFFF&} STOLEN
+Dialogue: 0,0:00:01.94,0:00:02.22,Cap,,0,0,0,,{\pos(540,640)}AIN'T {\c&H27F804&}STOLEN{\c&HFFFFFF&}
+Dialogue: 0,0:00:02.22,0:00:02.48,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}WHEN{\c&HFFFFFF&} YOU PULL
+Dialogue: 0,0:00:02.48,0:00:02.52,Cap,,0,0,0,,{\pos(540,640)}WHEN {\c&H27F804&}YOU{\c&HFFFFFF&} PULL
+Dialogue: 0,0:00:02.52,0:00:02.74,Cap,,0,0,0,,{\pos(540,640)}WHEN YOU {\c&H27F804&}PULL{\c&HFFFFFF&}
+Dialogue: 0,0:00:02.74,0:00:02.88,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}UP{\c&HFFFFFF&} AT THE
+Dialogue: 0,0:00:02.88,0:00:02.98,Cap,,0,0,0,,{\pos(540,640)}UP {\c&H27F804&}AT{\c&HFFFFFF&} THE
+Dialogue: 0,0:00:02.98,0:00:03.08,Cap,,0,0,0,,{\pos(540,640)}UP AT {\c&H27F804&}THE{\c&HFFFFFF&}
+Dialogue: 0,0:00:03.08,0:00:03.67,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}PRISON.{\c&HFFFFFF&}
+Dialogue: 0,0:00:04.00,0:00:04.74,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}MM-HMM.{\c&HFFFFFF&}
+Dialogue: 0,0:00:04.74,0:00:04.98,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}ANOTHER{\c&HFFFFFF&} DAY IN
+Dialogue: 0,0:00:04.98,0:00:05.16,Cap,,0,0,0,,{\pos(540,640)}ANOTHER {\c&H27F804&}DAY{\c&HFFFFFF&} IN
+Dialogue: 0,0:00:05.16,0:00:05.62,Cap,,0,0,0,,{\pos(540,640)}ANOTHER DAY {\c&H27F804&}IN{\c&HFFFFFF&}
+Dialogue: 0,0:00:05.62,0:00:05.76,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}PARADISE,{\c&HFFFFFF&} HUH?
+Dialogue: 0,0:00:05.76,0:00:06.04,Cap,,0,0,0,,{\pos(540,640)}PARADISE, {\c&H27F804&}HUH?{\c&HFFFFFF&}
+Dialogue: 0,0:00:06.04,0:00:06.26,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}WAIT,{\c&HFFFFFF&} IS THAT
+Dialogue: 0,0:00:06.26,0:00:06.31,Cap,,0,0,0,,{\pos(540,640)}WAIT, {\c&H27F804&}IS{\c&HFFFFFF&} THAT
+Dialogue: 0,0:00:06.26,0:00:06.42,Cap,,0,0,0,,{\pos(540,640)}WAIT, IS {\c&H27F804&}THAT{\c&HFFFFFF&}
+Dialogue: 0,0:00:06.42,0:00:06.64,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}WAFFLE{\c&HFFFFFF&} HOUSE?
+Dialogue: 0,0:00:06.64,0:00:07.21,Cap,,0,0,0,,{\pos(540,640)}WAFFLE {\c&H27F804&}HOUSE?{\c&HFFFFFF&}
+Dialogue: 0,0:00:07.68,0:00:08.04,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}UH...{\c&HFFFFFF&}
+Dialogue: 0,0:00:08.04,0:00:08.76,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}SERIOUSLY,{\c&HFFFFFF&} HOW
+Dialogue: 0,0:00:08.76,0:00:08.90,Cap,,0,0,0,,{\pos(540,640)}SERIOUSLY, {\c&H27F804&}HOW{\c&HFFFFFF&}
+Dialogue: 0,0:00:08.90,0:00:09.12,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}WORRIED{\c&HFFFFFF&} DO I
+Dialogue: 0,0:00:09.12,0:00:09.32,Cap,,0,0,0,,{\pos(540,640)}WORRIED {\c&H27F804&}DO{\c&HFFFFFF&} I
+Dialogue: 0,0:00:09.32,0:00:09.42,Cap,,0,0,0,,{\pos(540,640)}WORRIED DO {\c&H27F804&}I{\c&HFFFFFF&}
+Dialogue: 0,0:00:09.42,0:00:09.52,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}HAVE{\c&HFFFFFF&} TO BE?
+Dialogue: 0,0:00:09.52,0:00:09.64,Cap,,0,0,0,,{\pos(540,640)}HAVE {\c&H27F804&}TO{\c&HFFFFFF&} BE?
+Dialogue: 0,0:00:09.64,0:00:10.19,Cap,,0,0,0,,{\pos(540,640)}HAVE TO {\c&H27F804&}BE?{\c&HFFFFFF&}
+Dialogue: 0,0:00:10.36,0:00:10.46,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}ARE{\c&HFFFFFF&} THE REDNECKS
+Dialogue: 0,0:00:10.46,0:00:10.60,Cap,,0,0,0,,{\pos(540,640)}ARE {\c&H27F804&}THE{\c&HFFFFFF&} REDNECKS
+Dialogue: 0,0:00:10.60,0:00:11.00,Cap,,0,0,0,,{\pos(540,640)}ARE THE {\c&H27F804&}REDNECKS{\c&HFFFFFF&}
+Dialogue: 0,0:00:11.00,0:00:11.44,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}LIKE...{\c&HFFFFFF&}
+Dialogue: 0,0:00:11.44,0:00:11.92,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}FIRST{\c&HFFFFFF&} TIME IN
+Dialogue: 0,0:00:11.92,0:00:12.26,Cap,,0,0,0,,{\pos(540,640)}FIRST {\c&H27F804&}TIME{\c&HFFFFFF&} IN
+Dialogue: 0,0:00:12.26,0:00:12.44,Cap,,0,0,0,,{\pos(540,640)}FIRST TIME {\c&H27F804&}IN{\c&HFFFFFF&}
+Dialogue: 0,0:00:12.44,0:00:12.58,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}THE{\c&HFFFFFF&} CITY!
+Dialogue: 0,0:00:12.58,0:00:13.15,Cap,,0,0,0,,{\pos(540,640)}THE {\c&H27F804&}CITY!{\c&HFFFFFF&}
+Dialogue: 0,0:00:13.32,0:00:13.42,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}OR{\c&HFFFFFF&} ARE THEY
+Dialogue: 0,0:00:13.42,0:00:13.52,Cap,,0,0,0,,{\pos(540,640)}OR {\c&H27F804&}ARE{\c&HFFFFFF&} THEY
+Dialogue: 0,0:00:13.52,0:00:13.66,Cap,,0,0,0,,{\pos(540,640)}OR ARE {\c&H27F804&}THEY{\c&HFFFFFF&}
+Dialogue: 0,0:00:13.66,0:00:14.02,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}LIKE,{\c&HFFFFFF&} I WILL
+Dialogue: 0,0:00:14.02,0:00:14.14,Cap,,0,0,0,,{\pos(540,640)}LIKE, {\c&H27F804&}I{\c&HFFFFFF&} WILL
+Dialogue: 0,0:00:14.14,0:00:14.28,Cap,,0,0,0,,{\pos(540,640)}LIKE, I {\c&H27F804&}WILL{\c&HFFFFFF&}
+Dialogue: 0,0:00:14.28,0:00:14.50,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}CHASE{\c&HFFFFFF&} YOU TO
+Dialogue: 0,0:00:14.50,0:00:14.70,Cap,,0,0,0,,{\pos(540,640)}CHASE {\c&H27F804&}YOU{\c&HFFFFFF&} TO
+Dialogue: 0,0:00:14.70,0:00:14.80,Cap,,0,0,0,,{\pos(540,640)}CHASE YOU {\c&H27F804&}TO{\c&HFFFFFF&}
+Dialogue: 0,0:00:14.80,0:00:14.90,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}THE{\c&HFFFFFF&} END OF
+Dialogue: 0,0:00:14.90,0:00:15.02,Cap,,0,0,0,,{\pos(540,640)}THE {\c&H27F804&}END{\c&HFFFFFF&} OF
+Dialogue: 0,0:00:15.02,0:00:15.16,Cap,,0,0,0,,{\pos(540,640)}THE END {\c&H27F804&}OF{\c&HFFFFFF&}
+Dialogue: 0,0:00:15.16,0:00:15.62,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}EARTH,{\c&HFFFFFF&} PISSED.
+Dialogue: 0,0:00:15.62,0:00:15.97,Cap,,0,0,0,,{\pos(540,640)}EARTH, {\c&H27F804&}PISSED.{\c&HFFFFFF&}
+Dialogue: 0,0:00:16.10,0:00:16.34,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}EH,{\c&HFFFFFF&} I DON'T
+Dialogue: 0,0:00:16.34,0:00:16.42,Cap,,0,0,0,,{\pos(540,640)}EH, {\c&H27F804&}I{\c&HFFFFFF&} DON'T
+Dialogue: 0,0:00:16.42,0:00:16.56,Cap,,0,0,0,,{\pos(540,640)}EH, I {\c&H27F804&}DON'T{\c&HFFFFFF&}
+Dialogue: 0,0:00:16.56,0:00:17.03,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}KNOW.{\c&HFFFFFF&}

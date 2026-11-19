@@ -1,0 +1,51 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Arial Black,96,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,7,3,5,40,40,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.20,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}THIS{\c&HFFFFFF&} GAME IS
+Dialogue: 0,0:00:00.20,0:00:00.54,Cap,,0,0,0,,{\pos(540,640)}THIS {\c&H27F804&}GAME{\c&HFFFFFF&} IS
+Dialogue: 0,0:00:00.54,0:00:00.74,Cap,,0,0,0,,{\pos(540,640)}THIS GAME {\c&H27F804&}IS{\c&HFFFFFF&}
+Dialogue: 0,0:00:00.74,0:00:01.04,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}SO{\c&HFFFFFF&} DAMN
+Dialogue: 0,0:00:01.04,0:00:02.55,Cap,,0,0,0,,{\pos(540,640)}SO {\c&H27F804&}DAMN{\c&HFFFFFF&}
+Dialogue: 0,0:00:05.94,0:00:06.34,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}LET'S{\c&HFFFFFF&} HIT THE
+Dialogue: 0,0:00:06.34,0:00:06.42,Cap,,0,0,0,,{\pos(540,640)}LET'S {\c&H27F804&}HIT{\c&HFFFFFF&} THE
+Dialogue: 0,0:00:06.42,0:00:06.56,Cap,,0,0,0,,{\pos(540,640)}LET'S HIT {\c&H27F804&}THE{\c&HFFFFFF&}
+Dialogue: 0,0:00:06.56,0:00:07.23,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}BRIGHTNESS{\c&HFFFFFF&}
+Dialogue: 0,0:00:12.86,0:00:13.26,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}DO{\c&HFFFFFF&} I HAVE
+Dialogue: 0,0:00:13.26,0:00:13.38,Cap,,0,0,0,,{\pos(540,640)}DO {\c&H27F804&}I{\c&HFFFFFF&} HAVE
+Dialogue: 0,0:00:13.38,0:00:13.46,Cap,,0,0,0,,{\pos(540,640)}DO I {\c&H27F804&}HAVE{\c&HFFFFFF&}
+Dialogue: 0,0:00:13.46,0:00:13.62,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}ANY{\c&HFFFFFF&} FILTERS
+Dialogue: 0,0:00:13.62,0:00:13.86,Cap,,0,0,0,,{\pos(540,640)}ANY {\c&H27F804&}FILTERS{\c&HFFFFFF&}
+Dialogue: 0,0:00:13.86,0:00:14.20,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}AFFECTING{\c&HFFFFFF&} IT?
+Dialogue: 0,0:00:14.20,0:00:14.64,Cap,,0,0,0,,{\pos(540,640)}AFFECTING {\c&H27F804&}IT?{\c&HFFFFFF&}
+Dialogue: 0,0:00:14.64,0:00:14.78,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}NO,{\c&HFFFFFF&} I DON'T
+Dialogue: 0,0:00:14.78,0:00:14.90,Cap,,0,0,0,,{\pos(540,640)}NO, {\c&H27F804&}I{\c&HFFFFFF&} DON'T
+Dialogue: 0,0:00:14.90,0:00:15.51,Cap,,0,0,0,,{\pos(540,640)}NO, I {\c&H27F804&}DON'T{\c&HFFFFFF&}
+Dialogue: 0,0:00:16.62,0:00:16.92,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}BRO,{\c&HFFFFFF&} I DON'T
+Dialogue: 0,0:00:16.92,0:00:17.22,Cap,,0,0,0,,{\pos(540,640)}BRO, {\c&H27F804&}I{\c&HFFFFFF&} DON'T
+Dialogue: 0,0:00:17.22,0:00:17.32,Cap,,0,0,0,,{\pos(540,640)}BRO, I {\c&H27F804&}DON'T{\c&HFFFFFF&}
+Dialogue: 0,0:00:17.32,0:00:17.48,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}HAVE{\c&HFFFFFF&} ANY FILTERS
+Dialogue: 0,0:00:17.48,0:00:17.72,Cap,,0,0,0,,{\pos(540,640)}HAVE {\c&H27F804&}ANY{\c&HFFFFFF&} FILTERS
+Dialogue: 0,0:00:17.72,0:00:18.00,Cap,,0,0,0,,{\pos(540,640)}HAVE ANY {\c&H27F804&}FILTERS{\c&HFFFFFF&}
+Dialogue: 0,0:00:18.00,0:00:18.24,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}ON{\c&HFFFFFF&} THERE'S NO
+Dialogue: 0,0:00:18.24,0:00:18.52,Cap,,0,0,0,,{\pos(540,640)}ON {\c&H27F804&}THERE'S{\c&HFFFFFF&} NO
+Dialogue: 0,0:00:18.52,0:00:18.70,Cap,,0,0,0,,{\pos(540,640)}ON THERE'S {\c&H27F804&}NO{\c&HFFFFFF&}
+Dialogue: 0,0:00:18.70,0:00:19.04,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}FILTERS{\c&HFFFFFF&} ON THIS
+Dialogue: 0,0:00:19.04,0:00:19.24,Cap,,0,0,0,,{\pos(540,640)}FILTERS {\c&H27F804&}ON{\c&HFFFFFF&} THIS
+Dialogue: 0,0:00:19.24,0:00:19.38,Cap,,0,0,0,,{\pos(540,640)}FILTERS ON {\c&H27F804&}THIS{\c&HFFFFFF&}
+Dialogue: 0,0:00:19.38,0:00:19.70,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}BRO.{\c&HFFFFFF&}
+Dialogue: 0,0:00:19.70,0:00:20.10,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}LIKE{\c&HFFFFFF&} I THINK
+Dialogue: 0,0:00:20.10,0:00:20.26,Cap,,0,0,0,,{\pos(540,640)}LIKE {\c&H27F804&}I{\c&HFFFFFF&} THINK
+Dialogue: 0,0:00:20.26,0:00:20.40,Cap,,0,0,0,,{\pos(540,640)}LIKE I {\c&H27F804&}THINK{\c&HFFFFFF&}
+Dialogue: 0,0:00:20.40,0:00:20.54,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}IT'S{\c&HFFFFFF&} LITERALLY
+Dialogue: 0,0:00:20.54,0:00:20.72,Cap,,0,0,0,,{\pos(540,640)}IT'S {\c&H27F804&}LITERALLY{\c&HFFFFFF&}
+Dialogue: 0,0:00:20.72,0:00:20.92,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}THE{\c&HFFFFFF&} GAME
+Dialogue: 0,0:00:20.92,0:00:21.51,Cap,,0,0,0,,{\pos(540,640)}THE {\c&H27F804&}GAME{\c&HFFFFFF&}

@@ -1,0 +1,36 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Arial Black,96,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,7,3,5,40,40,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.60,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}DION{\c&HFFFFFF&} WAITERS
+Dialogue: 0,0:00:00.60,0:00:01.22,Cap,,0,0,0,,{\pos(540,640)}DION {\c&H27F804&}WAITERS{\c&HFFFFFF&}
+Dialogue: 0,0:00:01.22,0:00:01.46,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}WITH{\c&HFFFFFF&} THE GODDAMN
+Dialogue: 0,0:00:01.46,0:00:01.66,Cap,,0,0,0,,{\pos(540,640)}WITH {\c&H27F804&}THE{\c&HFFFFFF&} GODDAMN
+Dialogue: 0,0:00:01.66,0:00:02.24,Cap,,0,0,0,,{\pos(540,640)}WITH THE {\c&H27F804&}GODDAMN{\c&HFFFFFF&}
+Dialogue: 0,0:00:02.24,0:00:02.94,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}25{\c&HFFFFFF&} GIFTED
+Dialogue: 0,0:00:02.94,0:00:03.42,Cap,,0,0,0,,{\pos(540,640)}25 {\c&H27F804&}GIFTED{\c&HFFFFFF&}
+Dialogue: 0,0:00:03.42,0:00:03.86,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}APPRECIATE{\c&HFFFFFF&} IT.
+Dialogue: 0,0:00:03.86,0:00:04.70,Cap,,0,0,0,,{\pos(540,640)}APPRECIATE {\c&H27F804&}IT.{\c&HFFFFFF&}
+Dialogue: 0,0:00:04.70,0:00:05.62,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}THANK{\c&HFFFFFF&} YOU SO
+Dialogue: 0,0:00:05.62,0:00:05.78,Cap,,0,0,0,,{\pos(540,640)}THANK {\c&H27F804&}YOU{\c&HFFFFFF&} SO
+Dialogue: 0,0:00:05.78,0:00:06.04,Cap,,0,0,0,,{\pos(540,640)}THANK YOU {\c&H27F804&}SO{\c&HFFFFFF&}
+Dialogue: 0,0:00:06.04,0:00:06.36,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}MUCH,{\c&HFFFFFF&} BRO.
+Dialogue: 0,0:00:06.36,0:00:06.66,Cap,,0,0,0,,{\pos(540,640)}MUCH, {\c&H27F804&}BRO.{\c&HFFFFFF&}
+Dialogue: 0,0:00:06.66,0:00:07.48,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}THANK{\c&HFFFFFF&} YOU SO
+Dialogue: 0,0:00:07.48,0:00:07.60,Cap,,0,0,0,,{\pos(540,640)}THANK {\c&H27F804&}YOU{\c&HFFFFFF&} SO
+Dialogue: 0,0:00:07.60,0:00:07.78,Cap,,0,0,0,,{\pos(540,640)}THANK YOU {\c&H27F804&}SO{\c&HFFFFFF&}
+Dialogue: 0,0:00:07.78,0:00:08.59,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}MUCH{\c&HFFFFFF&}
+Dialogue: 0,0:00:14.14,0:00:15.06,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}HOW{\c&HFFFFFF&} DO YOU
+Dialogue: 0,0:00:15.06,0:00:15.98,Cap,,0,0,0,,{\pos(540,640)}HOW {\c&H27F804&}DO{\c&HFFFFFF&} YOU
+Dialogue: 0,0:00:15.98,0:00:16.00,Cap,,0,0,0,,{\pos(540,640)}HOW DO {\c&H27F804&}YOU{\c&HFFFFFF&}
+Dialogue: 0,0:00:16.00,0:00:16.20,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}CONTROL{\c&HFFFFFF&} THE
+Dialogue: 0,0:00:16.20,0:00:16.32,Cap,,0,0,0,,{\pos(540,640)}CONTROL {\c&H27F804&}THE{\c&HFFFFFF&}
+Dialogue: 0,0:00:16.32,0:00:17.73,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}RADIO{\c&HFFFFFF&}

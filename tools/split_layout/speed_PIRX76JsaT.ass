@@ -1,0 +1,64 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Arial Black,96,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,7,3,5,40,40,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.39,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}YO,{\c&HFFFFFF&} THESE
+Dialogue: 0,0:00:00.39,0:00:00.78,Cap,,0,0,0,,{\pos(540,640)}YO, {\c&H27F804&}THESE{\c&HFFFFFF&}
+Dialogue: 0,0:00:00.78,0:00:01.20,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}GRAPHICS{\c&HFFFFFF&} ARE
+Dialogue: 0,0:00:01.20,0:00:01.46,Cap,,0,0,0,,{\pos(540,640)}GRAPHICS {\c&H27F804&}ARE{\c&HFFFFFF&}
+Dialogue: 0,0:00:01.46,0:00:02.63,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}CRAZY{\c&HFFFFFF&}
+Dialogue: 0,0:00:02.90,0:00:03.38,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}CAN{\c&HFFFFFF&} WE GET
+Dialogue: 0,0:00:03.38,0:00:03.52,Cap,,0,0,0,,{\pos(540,640)}CAN {\c&H27F804&}WE{\c&HFFFFFF&} GET
+Dialogue: 0,0:00:03.52,0:00:03.64,Cap,,0,0,0,,{\pos(540,640)}CAN WE {\c&H27F804&}GET{\c&HFFFFFF&}
+Dialogue: 0,0:00:03.64,0:00:03.86,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}BACK{\c&HFFFFFF&} TO KOCH?
+Dialogue: 0,0:00:03.86,0:00:04.02,Cap,,0,0,0,,{\pos(540,640)}BACK {\c&H27F804&}TO{\c&HFFFFFF&} KOCH?
+Dialogue: 0,0:00:04.02,0:00:04.60,Cap,,0,0,0,,{\pos(540,640)}BACK TO {\c&H27F804&}KOCH?{\c&HFFFFFF&}
+Dialogue: 0,0:00:04.60,0:00:04.86,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}HOW{\c&HFFFFFF&} IS THIS
+Dialogue: 0,0:00:04.86,0:00:05.02,Cap,,0,0,0,,{\pos(540,640)}HOW {\c&H27F804&}IS{\c&HFFFFFF&} THIS
+Dialogue: 0,0:00:05.02,0:00:05.20,Cap,,0,0,0,,{\pos(540,640)}HOW IS {\c&H27F804&}THIS{\c&HFFFFFF&}
+Dialogue: 0,0:00:05.20,0:00:05.50,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}GAME{\c&HFFFFFF&} REAL BRO?
+Dialogue: 0,0:00:05.50,0:00:06.00,Cap,,0,0,0,,{\pos(540,640)}GAME {\c&H27F804&}REAL{\c&HFFFFFF&} BRO?
+Dialogue: 0,0:00:06.00,0:00:06.78,Cap,,0,0,0,,{\pos(540,640)}GAME REAL {\c&H27F804&}BRO?{\c&HFFFFFF&}
+Dialogue: 0,0:00:06.78,0:00:06.80,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}DONNY{\c&HFFFFFF&} COULD HAVE
+Dialogue: 0,0:00:06.80,0:00:07.04,Cap,,0,0,0,,{\pos(540,640)}DONNY {\c&H27F804&}COULD{\c&HFFFFFF&} HAVE
+Dialogue: 0,0:00:07.04,0:00:07.14,Cap,,0,0,0,,{\pos(540,640)}DONNY COULD {\c&H27F804&}HAVE{\c&HFFFFFF&}
+Dialogue: 0,0:00:07.14,0:00:07.24,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}BEEN{\c&HFFFFFF&} TIGER FOOD
+Dialogue: 0,0:00:07.24,0:00:07.56,Cap,,0,0,0,,{\pos(540,640)}BEEN {\c&H27F804&}TIGER{\c&HFFFFFF&} FOOD
+Dialogue: 0,0:00:07.56,0:00:07.82,Cap,,0,0,0,,{\pos(540,640)}BEEN TIGER {\c&H27F804&}FOOD{\c&HFFFFFF&}
+Dialogue: 0,0:00:07.82,0:00:08.12,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}MAN{\c&HFFFFFF&} AT LEAST
+Dialogue: 0,0:00:08.12,0:00:08.38,Cap,,0,0,0,,{\pos(540,640)}MAN {\c&H27F804&}AT{\c&HFFFFFF&} LEAST
+Dialogue: 0,0:00:08.38,0:00:08.64,Cap,,0,0,0,,{\pos(540,640)}MAN AT {\c&H27F804&}LEAST{\c&HFFFFFF&}
+Dialogue: 0,0:00:08.64,0:00:08.76,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}LET{\c&HFFFFFF&} HIM SELL
+Dialogue: 0,0:00:08.76,0:00:08.88,Cap,,0,0,0,,{\pos(540,640)}LET {\c&H27F804&}HIM{\c&HFFFFFF&} SELL
+Dialogue: 0,0:00:08.88,0:00:09.08,Cap,,0,0,0,,{\pos(540,640)}LET HIM {\c&H27F804&}SELL{\c&HFFFFFF&}
+Dialogue: 0,0:00:09.08,0:00:09.22,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}THE{\c&HFFFFFF&} SH*T TIGER
+Dialogue: 0,0:00:09.22,0:00:09.48,Cap,,0,0,0,,{\pos(540,640)}THE {\c&H27F804&}SH*T{\c&HFFFFFF&} TIGER
+Dialogue: 0,0:00:09.48,0:00:10.00,Cap,,0,0,0,,{\pos(540,640)}THE SH*T {\c&H27F804&}TIGER{\c&HFFFFFF&}
+Dialogue: 0,0:00:10.00,0:00:10.30,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}FOOD.{\c&HFFFFFF&}
+Dialogue: 0,0:00:10.30,0:00:10.46,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}YOU{\c&HFFFFFF&} SAY I
+Dialogue: 0,0:00:10.46,0:00:10.68,Cap,,0,0,0,,{\pos(540,640)}YOU {\c&H27F804&}SAY{\c&HFFFFFF&} I
+Dialogue: 0,0:00:10.68,0:00:11.38,Cap,,0,0,0,,{\pos(540,640)}YOU SAY {\c&H27F804&}I{\c&HFFFFFF&}
+Dialogue: 0,0:00:11.38,0:00:11.52,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}HEARD{\c&HFFFFFF&} STORIES.
+Dialogue: 0,0:00:11.52,0:00:11.96,Cap,,0,0,0,,{\pos(540,640)}HEARD {\c&H27F804&}STORIES.{\c&HFFFFFF&}
+Dialogue: 0,0:00:11.96,0:00:12.12,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}THEY{\c&HFFFFFF&} HAD A
+Dialogue: 0,0:00:12.12,0:00:12.28,Cap,,0,0,0,,{\pos(540,640)}THEY {\c&H27F804&}HAD{\c&HFFFFFF&} A
+Dialogue: 0,0:00:12.28,0:00:12.36,Cap,,0,0,0,,{\pos(540,640)}THEY HAD {\c&H27F804&}A{\c&HFFFFFF&}
+Dialogue: 0,0:00:12.36,0:00:12.80,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}TIGER.{\c&HFFFFFF&}
+Dialogue: 0,0:00:12.80,0:00:13.24,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}I{\c&HFFFFFF&} THINK THEY
+Dialogue: 0,0:00:13.24,0:00:13.38,Cap,,0,0,0,,{\pos(540,640)}I {\c&H27F804&}THINK{\c&HFFFFFF&} THEY
+Dialogue: 0,0:00:13.38,0:00:13.50,Cap,,0,0,0,,{\pos(540,640)}I THINK {\c&H27F804&}THEY{\c&HFFFFFF&}
+Dialogue: 0,0:00:13.50,0:00:13.64,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}GOT{\c&HFFFFFF&} A FEW
+Dialogue: 0,0:00:13.64,0:00:13.76,Cap,,0,0,0,,{\pos(540,640)}GOT {\c&H27F804&}A{\c&HFFFFFF&} FEW
+Dialogue: 0,0:00:13.76,0:00:14.33,Cap,,0,0,0,,{\pos(540,640)}GOT A {\c&H27F804&}FEW{\c&HFFFFFF&}
+Dialogue: 0,0:00:17.50,0:00:17.98,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}HOW{\c&HFFFFFF&} IS THIS
+Dialogue: 0,0:00:17.98,0:00:18.26,Cap,,0,0,0,,{\pos(540,640)}HOW {\c&H27F804&}IS{\c&HFFFFFF&} THIS
+Dialogue: 0,0:00:18.26,0:00:18.44,Cap,,0,0,0,,{\pos(540,640)}HOW IS {\c&H27F804&}THIS{\c&HFFFFFF&}
+Dialogue: 0,0:00:18.44,0:00:19.31,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}REAL{\c&HFFFFFF&}

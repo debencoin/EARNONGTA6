@@ -1,0 +1,61 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Arial Black,96,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,7,3,5,40,40,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:06.34,0:00:06.90,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}BRO,{\c&HFFFFFF&} CHAT, DO
+Dialogue: 0,0:00:06.90,0:00:07.08,Cap,,0,0,0,,{\pos(540,640)}BRO, {\c&H27F804&}CHAT,{\c&HFFFFFF&} DO
+Dialogue: 0,0:00:07.08,0:00:07.12,Cap,,0,0,0,,{\pos(540,640)}BRO, CHAT, {\c&H27F804&}DO{\c&HFFFFFF&}
+Dialogue: 0,0:00:07.12,0:00:07.20,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}Y'ALL{\c&HFFFFFF&} SEE WHAT
+Dialogue: 0,0:00:07.20,0:00:07.38,Cap,,0,0,0,,{\pos(540,640)}Y'ALL {\c&H27F804&}SEE{\c&HFFFFFF&} WHAT
+Dialogue: 0,0:00:07.38,0:00:07.52,Cap,,0,0,0,,{\pos(540,640)}Y'ALL SEE {\c&H27F804&}WHAT{\c&HFFFFFF&}
+Dialogue: 0,0:00:07.52,0:00:07.70,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}THIS{\c&HFFFFFF&} GAME LOOKS
+Dialogue: 0,0:00:07.70,0:00:07.92,Cap,,0,0,0,,{\pos(540,640)}THIS {\c&H27F804&}GAME{\c&HFFFFFF&} LOOKS
+Dialogue: 0,0:00:07.92,0:00:08.20,Cap,,0,0,0,,{\pos(540,640)}THIS GAME {\c&H27F804&}LOOKS{\c&HFFFFFF&}
+Dialogue: 0,0:00:08.20,0:00:10.22,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}LIKE,{\c&HFFFFFF&} BRO?
+Dialogue: 0,0:00:10.22,0:00:10.57,Cap,,0,0,0,,{\pos(540,640)}LIKE, {\c&H27F804&}BRO?{\c&HFFFFFF&}
+Dialogue: 0,0:00:21.58,0:00:22.26,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}THIS{\c&HFFFFFF&} SONG TAKES
+Dialogue: 0,0:00:22.26,0:00:22.94,Cap,,0,0,0,,{\pos(540,640)}THIS {\c&H27F804&}SONG{\c&HFFFFFF&} TAKES
+Dialogue: 0,0:00:22.94,0:00:23.28,Cap,,0,0,0,,{\pos(540,640)}THIS SONG {\c&H27F804&}TAKES{\c&HFFFFFF&}
+Dialogue: 0,0:00:23.28,0:00:23.62,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}ME{\c&HFFFFFF&} TO ANOTHER
+Dialogue: 0,0:00:23.62,0:00:23.86,Cap,,0,0,0,,{\pos(540,640)}ME {\c&H27F804&}TO{\c&HFFFFFF&} ANOTHER
+Dialogue: 0,0:00:23.86,0:00:24.10,Cap,,0,0,0,,{\pos(540,640)}ME TO {\c&H27F804&}ANOTHER{\c&HFFFFFF&}
+Dialogue: 0,0:00:24.10,0:00:24.87,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}PLACE,{\c&HFFFFFF&}
+Dialogue: 0,0:00:25.04,0:00:25.24,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}ANOTHER{\c&HFFFFFF&} TIME,
+Dialogue: 0,0:00:25.24,0:00:25.95,Cap,,0,0,0,,{\pos(540,640)}ANOTHER {\c&H27F804&}TIME,{\c&HFFFFFF&}
+Dialogue: 0,0:00:26.20,0:00:26.66,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}CONGA{\c&HFFFFFF&} WHERE AM
+Dialogue: 0,0:00:26.66,0:00:26.80,Cap,,0,0,0,,{\pos(540,640)}CONGA {\c&H27F804&}WHERE{\c&HFFFFFF&} AM
+Dialogue: 0,0:00:26.80,0:00:26.92,Cap,,0,0,0,,{\pos(540,640)}CONGA WHERE {\c&H27F804&}AM{\c&HFFFFFF&}
+Dialogue: 0,0:00:26.92,0:00:27.06,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}I{\c&HFFFFFF&} GOING?
+Dialogue: 0,0:00:27.06,0:00:27.69,Cap,,0,0,0,,{\pos(540,640)}I {\c&H27F804&}GOING?{\c&HFFFFFF&}
+Dialogue: 0,0:00:27.72,0:00:27.88,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}YOU'RE{\c&HFFFFFF&} RIGHT
+Dialogue: 0,0:00:27.88,0:00:27.98,Cap,,0,0,0,,{\pos(540,640)}YOU'RE {\c&H27F804&}RIGHT{\c&HFFFFFF&}
+Dialogue: 0,0:00:27.98,0:00:28.18,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}HERE{\c&HFFFFFF&} WITH ME,
+Dialogue: 0,0:00:28.18,0:00:28.34,Cap,,0,0,0,,{\pos(540,640)}HERE {\c&H27F804&}WITH{\c&HFFFFFF&} ME,
+Dialogue: 0,0:00:28.34,0:00:28.74,Cap,,0,0,0,,{\pos(540,640)}HERE WITH {\c&H27F804&}ME,{\c&HFFFFFF&}
+Dialogue: 0,0:00:28.74,0:00:29.06,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}BABE,{\c&HFFFFFF&} YA ORA
+Dialogue: 0,0:00:29.06,0:00:29.74,Cap,,0,0,0,,{\pos(540,640)}BABE, {\c&H27F804&}YA{\c&HFFFFFF&} ORA
+Dialogue: 0,0:00:29.74,0:00:30.10,Cap,,0,0,0,,{\pos(540,640)}BABE, YA {\c&H27F804&}ORA{\c&HFFFFFF&}
+Dialogue: 0,0:00:30.10,0:00:30.24,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}MI{\c&HFFFFFF&} GENTE, EL
+Dialogue: 0,0:00:30.24,0:00:30.98,Cap,,0,0,0,,{\pos(540,640)}MI {\c&H27F804&}GENTE,{\c&HFFFFFF&} EL
+Dialogue: 0,0:00:30.98,0:00:31.10,Cap,,0,0,0,,{\pos(540,640)}MI GENTE, {\c&H27F804&}EL{\c&HFFFFFF&}
+Dialogue: 0,0:00:31.10,0:00:31.58,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}MAESTRO{\c&HFFFFFF&} DEL
+Dialogue: 0,0:00:31.58,0:00:31.92,Cap,,0,0,0,,{\pos(540,640)}MAESTRO {\c&H27F804&}DEL{\c&HFFFFFF&}
+Dialogue: 0,0:00:31.92,0:00:32.40,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}MAMBO.{\c&HFFFFFF&}
+Dialogue: 0,0:00:32.40,0:00:33.02,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}YA{\c&HFFFFFF&} MORA ORA
+Dialogue: 0,0:00:33.02,0:00:33.50,Cap,,0,0,0,,{\pos(540,640)}YA {\c&H27F804&}MORA{\c&HFFFFFF&} ORA
+Dialogue: 0,0:00:33.50,0:00:33.70,Cap,,0,0,0,,{\pos(540,640)}YA MORA {\c&H27F804&}ORA{\c&HFFFFFF&}
+Dialogue: 0,0:00:33.70,0:00:33.82,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}MI{\c&HFFFFFF&} GENTE, ORA
+Dialogue: 0,0:00:33.82,0:00:34.44,Cap,,0,0,0,,{\pos(540,640)}MI {\c&H27F804&}GENTE,{\c&HFFFFFF&} ORA
+Dialogue: 0,0:00:34.44,0:00:34.62,Cap,,0,0,0,,{\pos(540,640)}MI GENTE, {\c&H27F804&}ORA{\c&HFFFFFF&}
+Dialogue: 0,0:00:34.62,0:00:35.25,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}STUDIO,{\c&HFFFFFF&}
+Dialogue: 0,0:00:35.58,0:00:35.84,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}ENTER{\c&HFFFFFF&} YOUR
+Dialogue: 0,0:00:35.84,0:00:36.08,Cap,,0,0,0,,{\pos(540,640)}ENTER {\c&H27F804&}YOUR{\c&HFFFFFF&}
+Dialogue: 0,0:00:36.08,0:00:36.73,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}HOUSE.{\c&HFFFFFF&}

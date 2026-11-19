@@ -1,0 +1,25 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Arial Black,96,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,7,3,5,40,40,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.38,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}WAIT,{\c&HFFFFFF&} CHAT, THIS
+Dialogue: 0,0:00:00.38,0:00:00.56,Cap,,0,0,0,,{\pos(540,640)}WAIT, {\c&H27F804&}CHAT,{\c&HFFFFFF&} THIS
+Dialogue: 0,0:00:00.56,0:00:00.58,Cap,,0,0,0,,{\pos(540,640)}WAIT, CHAT, {\c&H27F804&}THIS{\c&HFFFFFF&}
+Dialogue: 0,0:00:00.58,0:00:00.72,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}IS{\c&HFFFFFF&} MY HOUSE?
+Dialogue: 0,0:00:00.72,0:00:00.92,Cap,,0,0,0,,{\pos(540,640)}IS {\c&H27F804&}MY{\c&HFFFFFF&} HOUSE?
+Dialogue: 0,0:00:00.92,0:00:01.69,Cap,,0,0,0,,{\pos(540,640)}IS MY {\c&H27F804&}HOUSE?{\c&HFFFFFF&}
+Dialogue: 0,0:00:06.12,0:00:06.54,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}BRO,{\c&HFFFFFF&} LUCIA
+Dialogue: 0,0:00:06.54,0:00:06.74,Cap,,0,0,0,,{\pos(540,640)}BRO, {\c&H27F804&}LUCIA{\c&HFFFFFF&}
+Dialogue: 0,0:00:06.74,0:00:06.86,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}BETTER{\c&HFFFFFF&} BE ON
+Dialogue: 0,0:00:06.86,0:00:07.06,Cap,,0,0,0,,{\pos(540,640)}BETTER {\c&H27F804&}BE{\c&HFFFFFF&} ON
+Dialogue: 0,0:00:07.06,0:00:07.18,Cap,,0,0,0,,{\pos(540,640)}BETTER BE {\c&H27F804&}ON{\c&HFFFFFF&}
+Dialogue: 0,0:00:07.18,0:00:07.28,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}THE{\c&HFFFFFF&} BED.
+Dialogue: 0,0:00:07.28,0:00:07.83,Cap,,0,0,0,,{\pos(540,640)}THE {\c&H27F804&}BED.{\c&HFFFFFF&}
