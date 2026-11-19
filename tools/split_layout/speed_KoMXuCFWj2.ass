@@ -1,0 +1,89 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Arial Black,96,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,7,3,5,40,40,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.72,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}HEY{\c&HFFFFFF&} CHAT!
+Dialogue: 0,0:00:00.72,0:00:01.79,Cap,,0,0,0,,{\pos(540,640)}HEY {\c&H27F804&}CHAT!{\c&HFFFFFF&}
+Dialogue: 0,0:00:03.50,0:00:04.10,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}SHOULD{\c&HFFFFFF&} I TRY
+Dialogue: 0,0:00:04.10,0:00:04.16,Cap,,0,0,0,,{\pos(540,640)}SHOULD {\c&H27F804&}I{\c&HFFFFFF&} TRY
+Dialogue: 0,0:00:04.16,0:00:04.34,Cap,,0,0,0,,{\pos(540,640)}SHOULD I {\c&H27F804&}TRY{\c&HFFFFFF&}
+Dialogue: 0,0:00:04.34,0:00:04.44,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}TO{\c&HFFFFFF&} STEAL HIS
+Dialogue: 0,0:00:04.44,0:00:04.60,Cap,,0,0,0,,{\pos(540,640)}TO {\c&H27F804&}STEAL{\c&HFFFFFF&} HIS
+Dialogue: 0,0:00:04.60,0:00:04.80,Cap,,0,0,0,,{\pos(540,640)}TO STEAL {\c&H27F804&}HIS{\c&HFFFFFF&}
+Dialogue: 0,0:00:04.80,0:00:05.37,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}GIRL?{\c&HFFFFFF&}
+Dialogue: 0,0:00:06.26,0:00:06.42,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}SHOULD{\c&HFFFFFF&} I TRY
+Dialogue: 0,0:00:06.42,0:00:06.58,Cap,,0,0,0,,{\pos(540,640)}SHOULD {\c&H27F804&}I{\c&HFFFFFF&} TRY
+Dialogue: 0,0:00:06.58,0:00:06.76,Cap,,0,0,0,,{\pos(540,640)}SHOULD I {\c&H27F804&}TRY{\c&HFFFFFF&}
+Dialogue: 0,0:00:06.76,0:00:06.86,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}TO{\c&HFFFFFF&} STEAL HIS
+Dialogue: 0,0:00:06.86,0:00:07.04,Cap,,0,0,0,,{\pos(540,640)}TO {\c&H27F804&}STEAL{\c&HFFFFFF&} HIS
+Dialogue: 0,0:00:07.04,0:00:07.24,Cap,,0,0,0,,{\pos(540,640)}TO STEAL {\c&H27F804&}HIS{\c&HFFFFFF&}
+Dialogue: 0,0:00:07.24,0:00:07.83,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}GIRL?{\c&HFFFFFF&}
+Dialogue: 0,0:00:08.66,0:00:08.76,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}HOLD{\c&HFFFFFF&} ON, HOLD
+Dialogue: 0,0:00:08.76,0:00:09.04,Cap,,0,0,0,,{\pos(540,640)}HOLD {\c&H27F804&}ON,{\c&HFFFFFF&} HOLD
+Dialogue: 0,0:00:09.04,0:00:09.08,Cap,,0,0,0,,{\pos(540,640)}HOLD ON, {\c&H27F804&}HOLD{\c&HFFFFFF&}
+Dialogue: 0,0:00:09.08,0:00:09.42,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}ON,{\c&HFFFFFF&} HOLD ON,
+Dialogue: 0,0:00:09.42,0:00:09.52,Cap,,0,0,0,,{\pos(540,640)}ON, {\c&H27F804&}HOLD{\c&HFFFFFF&} ON,
+Dialogue: 0,0:00:09.52,0:00:09.64,Cap,,0,0,0,,{\pos(540,640)}ON, HOLD {\c&H27F804&}ON,{\c&HFFFFFF&}
+Dialogue: 0,0:00:09.64,0:00:09.70,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}HOLD{\c&HFFFFFF&} ON, HOLD
+Dialogue: 0,0:00:09.70,0:00:09.72,Cap,,0,0,0,,{\pos(540,640)}HOLD {\c&H27F804&}ON,{\c&HFFFFFF&} HOLD
+Dialogue: 0,0:00:09.72,0:00:09.77,Cap,,0,0,0,,{\pos(540,640)}HOLD ON, {\c&H27F804&}HOLD{\c&HFFFFFF&}
+Dialogue: 0,0:00:09.72,0:00:10.23,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}ON.{\c&HFFFFFF&}
+Dialogue: 0,0:00:12.82,0:00:13.26,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}COME{\c&HFFFFFF&} ON, JASON
+Dialogue: 0,0:00:13.26,0:00:13.54,Cap,,0,0,0,,{\pos(540,640)}COME {\c&H27F804&}ON,{\c&HFFFFFF&} JASON
+Dialogue: 0,0:00:13.54,0:00:13.60,Cap,,0,0,0,,{\pos(540,640)}COME ON, {\c&H27F804&}JASON{\c&HFFFFFF&}
+Dialogue: 0,0:00:13.60,0:00:14.33,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}MOTT.{\c&HFFFFFF&}
+Dialogue: 0,0:00:16.52,0:00:16.96,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}YOU{\c&HFFFFFF&} GOT THE
+Dialogue: 0,0:00:16.96,0:00:17.40,Cap,,0,0,0,,{\pos(540,640)}YOU {\c&H27F804&}GOT{\c&HFFFFFF&} THE
+Dialogue: 0,0:00:17.40,0:00:17.56,Cap,,0,0,0,,{\pos(540,640)}YOU GOT {\c&H27F804&}THE{\c&HFFFFFF&}
+Dialogue: 0,0:00:17.56,0:00:17.72,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}RIGHT{\c&HFFFFFF&} IDEA.
+Dialogue: 0,0:00:17.72,0:00:18.40,Cap,,0,0,0,,{\pos(540,640)}RIGHT {\c&H27F804&}IDEA.{\c&HFFFFFF&}
+Dialogue: 0,0:00:18.40,0:00:18.87,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}HONEY,{\c&HFFFFFF&}
+Dialogue: 0,0:00:19.02,0:00:19.28,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}I{\c&HFFFFFF&} NEED YOU
+Dialogue: 0,0:00:19.28,0:00:19.50,Cap,,0,0,0,,{\pos(540,640)}I {\c&H27F804&}NEED{\c&HFFFFFF&} YOU
+Dialogue: 0,0:00:19.50,0:00:19.68,Cap,,0,0,0,,{\pos(540,640)}I NEED {\c&H27F804&}YOU{\c&HFFFFFF&}
+Dialogue: 0,0:00:19.68,0:00:19.82,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}TO{\c&HFFFFFF&} BACK ON
+Dialogue: 0,0:00:19.82,0:00:20.06,Cap,,0,0,0,,{\pos(540,640)}TO {\c&H27F804&}BACK{\c&HFFFFFF&} ON
+Dialogue: 0,0:00:20.06,0:00:20.32,Cap,,0,0,0,,{\pos(540,640)}TO BACK {\c&H27F804&}ON{\c&HFFFFFF&}
+Dialogue: 0,0:00:20.32,0:00:21.27,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}UP.{\c&HFFFFFF&}
+Dialogue: 0,0:00:22.68,0:00:23.47,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}WHAT?{\c&HFFFFFF&}
+Dialogue: 0,0:00:26.76,0:00:27.20,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}ALL{\c&HFFFFFF&} GOOD,
+Dialogue: 0,0:00:27.20,0:00:27.82,Cap,,0,0,0,,{\pos(540,640)}ALL {\c&H27F804&}GOOD,{\c&HFFFFFF&}
+Dialogue: 0,0:00:27.82,0:00:28.59,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}SWEETHEART.{\c&HFFFFFF&}
+Dialogue: 0,0:00:30.00,0:00:30.56,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}OKAY,{\c&HFFFFFF&} SHE, OKAY,
+Dialogue: 0,0:00:30.56,0:00:30.76,Cap,,0,0,0,,{\pos(540,640)}OKAY, {\c&H27F804&}SHE,{\c&HFFFFFF&} OKAY,
+Dialogue: 0,0:00:30.76,0:00:31.18,Cap,,0,0,0,,{\pos(540,640)}OKAY, SHE, {\c&H27F804&}OKAY,{\c&HFFFFFF&}
+Dialogue: 0,0:00:31.18,0:00:31.34,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}SHE{\c&HFFFFFF&} LAW YOU.
+Dialogue: 0,0:00:31.34,0:00:31.58,Cap,,0,0,0,,{\pos(540,640)}SHE {\c&H27F804&}LAW{\c&HFFFFFF&} YOU.
+Dialogue: 0,0:00:31.58,0:00:32.13,Cap,,0,0,0,,{\pos(540,640)}SHE LAW {\c&H27F804&}YOU.{\c&HFFFFFF&}
+Dialogue: 0,0:00:33.20,0:00:33.60,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}SHE{\c&HFFFFFF&} LAW YOU,
+Dialogue: 0,0:00:33.60,0:00:33.86,Cap,,0,0,0,,{\pos(540,640)}SHE {\c&H27F804&}LAW{\c&HFFFFFF&} YOU,
+Dialogue: 0,0:00:33.86,0:00:34.14,Cap,,0,0,0,,{\pos(540,640)}SHE LAW {\c&H27F804&}YOU,{\c&HFFFFFF&}
+Dialogue: 0,0:00:34.14,0:00:34.24,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}SHE{\c&HFFFFFF&} LAW YOU,
+Dialogue: 0,0:00:34.24,0:00:34.46,Cap,,0,0,0,,{\pos(540,640)}SHE {\c&H27F804&}LAW{\c&HFFFFFF&} YOU,
+Dialogue: 0,0:00:34.46,0:00:34.64,Cap,,0,0,0,,{\pos(540,640)}SHE LAW {\c&H27F804&}YOU,{\c&HFFFFFF&}
+Dialogue: 0,0:00:34.64,0:00:34.84,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}SHE{\c&HFFFFFF&} LAW YOU.
+Dialogue: 0,0:00:34.84,0:00:35.02,Cap,,0,0,0,,{\pos(540,640)}SHE {\c&H27F804&}LAW{\c&HFFFFFF&} YOU.
+Dialogue: 0,0:00:35.02,0:00:35.83,Cap,,0,0,0,,{\pos(540,640)}SHE LAW {\c&H27F804&}YOU.{\c&HFFFFFF&}
+Dialogue: 0,0:00:36.48,0:00:37.29,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}WHAT?{\c&HFFFFFF&}
+Dialogue: 0,0:00:37.32,0:00:37.50,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}BRO,{\c&HFFFFFF&} RELAX.
+Dialogue: 0,0:00:37.50,0:00:38.25,Cap,,0,0,0,,{\pos(540,640)}BRO, {\c&H27F804&}RELAX.{\c&HFFFFFF&}
+Dialogue: 0,0:00:38.96,0:00:39.04,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}WHAT{\c&HFFFFFF&} THE F
+Dialogue: 0,0:00:39.04,0:00:39.18,Cap,,0,0,0,,{\pos(540,640)}WHAT {\c&H27F804&}THE{\c&HFFFFFF&} F
+Dialogue: 0,0:00:39.18,0:00:39.67,Cap,,0,0,0,,{\pos(540,640)}WHAT THE {\c&H27F804&}F{\c&HFFFFFF&}
+Dialogue: 0,0:00:39.90,0:00:40.43,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}HEY.{\c&HFFFFFF&}
+Dialogue: 0,0:00:40.66,0:00:40.70,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}YOU{\c&HFFFFFF&} KNOW.
+Dialogue: 0,0:00:40.70,0:00:41.23,Cap,,0,0,0,,{\pos(540,640)}YOU {\c&H27F804&}KNOW.{\c&HFFFFFF&}
+Dialogue: 0,0:00:42.22,0:00:42.72,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}BRO,{\c&HFFFFFF&} HEY.
+Dialogue: 0,0:00:42.72,0:00:43.09,Cap,,0,0,0,,{\pos(540,640)}BRO, {\c&H27F804&}HEY.{\c&HFFFFFF&}
+Dialogue: 0,0:00:45.48,0:00:46.02,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}RELAX,{\c&HFFFFFF&} BRO.
+Dialogue: 0,0:00:46.02,0:00:46.69,Cap,,0,0,0,,{\pos(540,640)}RELAX, {\c&H27F804&}BRO.{\c&HFFFFFF&}
+Dialogue: 0,0:00:46.96,0:00:47.33,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}RELAX.{\c&HFFFFFF&}
+Dialogue: 0,0:00:48.00,0:00:48.81,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}RELAX.{\c&HFFFFFF&}

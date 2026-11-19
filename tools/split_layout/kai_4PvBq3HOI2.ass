@@ -1,0 +1,44 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Arial Black,96,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,7,3,5,40,40,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.86,0:00:04.42,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}OH{\c&HFFFFFF&} NO NO
+Dialogue: 0,0:00:04.42,0:00:04.98,Cap,,0,0,0,,{\pos(540,640)}OH {\c&H27F804&}NO{\c&HFFFFFF&} NO
+Dialogue: 0,0:00:04.98,0:00:05.78,Cap,,0,0,0,,{\pos(540,640)}OH NO {\c&H27F804&}NO{\c&HFFFFFF&}
+Dialogue: 0,0:00:05.78,0:00:08.52,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}I{\c&HFFFFFF&} GOTTA GO
+Dialogue: 0,0:00:08.52,0:00:08.86,Cap,,0,0,0,,{\pos(540,640)}I {\c&H27F804&}GOTTA{\c&HFFFFFF&} GO
+Dialogue: 0,0:00:08.86,0:00:09.00,Cap,,0,0,0,,{\pos(540,640)}I GOTTA {\c&H27F804&}GO{\c&HFFFFFF&}
+Dialogue: 0,0:00:09.00,0:00:09.04,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}TO{\c&HFFFFFF&} MY MAILBOX
+Dialogue: 0,0:00:09.04,0:00:09.14,Cap,,0,0,0,,{\pos(540,640)}TO {\c&H27F804&}MY{\c&HFFFFFF&} MAILBOX
+Dialogue: 0,0:00:09.14,0:00:09.46,Cap,,0,0,0,,{\pos(540,640)}TO MY {\c&H27F804&}MAILBOX{\c&HFFFFFF&}
+Dialogue: 0,0:00:09.46,0:00:09.68,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}REAL{\c&HFFFFFF&} QUICK AND
+Dialogue: 0,0:00:09.68,0:00:09.96,Cap,,0,0,0,,{\pos(540,640)}REAL {\c&H27F804&}QUICK{\c&HFFFFFF&} AND
+Dialogue: 0,0:00:09.96,0:00:10.34,Cap,,0,0,0,,{\pos(540,640)}REAL QUICK {\c&H27F804&}AND{\c&HFFFFFF&}
+Dialogue: 0,0:00:10.34,0:00:10.44,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}THEN{\c&HFFFFFF&} TAKE OUT
+Dialogue: 0,0:00:10.44,0:00:10.58,Cap,,0,0,0,,{\pos(540,640)}THEN {\c&H27F804&}TAKE{\c&HFFFFFF&} OUT
+Dialogue: 0,0:00:10.58,0:00:10.70,Cap,,0,0,0,,{\pos(540,640)}THEN TAKE {\c&H27F804&}OUT{\c&HFFFFFF&}
+Dialogue: 0,0:00:10.70,0:00:10.78,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}THE{\c&HFFFFFF&} MAILBOX TO
+Dialogue: 0,0:00:10.78,0:00:11.14,Cap,,0,0,0,,{\pos(540,640)}THE {\c&H27F804&}MAILBOX{\c&HFFFFFF&} TO
+Dialogue: 0,0:00:11.14,0:00:15.04,Cap,,0,0,0,,{\pos(540,640)}THE MAILBOX {\c&H27F804&}TO{\c&HFFFFFF&}
+Dialogue: 0,0:00:15.04,0:00:15.14,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}GET{\c&HFFFFFF&} THAT MONEY
+Dialogue: 0,0:00:15.14,0:00:15.30,Cap,,0,0,0,,{\pos(540,640)}GET {\c&H27F804&}THAT{\c&HFFFFFF&} MONEY
+Dialogue: 0,0:00:15.30,0:00:16.17,Cap,,0,0,0,,{\pos(540,640)}GET THAT {\c&H27F804&}MONEY{\c&HFFFFFF&}
+Dialogue: 0,0:00:18.92,0:00:19.20,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}I{\c&HFFFFFF&} GOT SOME
+Dialogue: 0,0:00:19.20,0:00:19.38,Cap,,0,0,0,,{\pos(540,640)}I {\c&H27F804&}GOT{\c&HFFFFFF&} SOME
+Dialogue: 0,0:00:19.38,0:00:19.58,Cap,,0,0,0,,{\pos(540,640)}I GOT {\c&H27F804&}SOME{\c&HFFFFFF&}
+Dialogue: 0,0:00:19.58,0:00:19.94,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}DONNIE{\c&HFFFFFF&} ON THE
+Dialogue: 0,0:00:19.94,0:00:20.04,Cap,,0,0,0,,{\pos(540,640)}DONNIE {\c&H27F804&}ON{\c&HFFFFFF&} THE
+Dialogue: 0,0:00:20.04,0:00:20.18,Cap,,0,0,0,,{\pos(540,640)}DONNIE ON {\c&H27F804&}THE{\c&HFFFFFF&}
+Dialogue: 0,0:00:20.18,0:00:20.26,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}OTHER{\c&HFFFFFF&} SIDE OF
+Dialogue: 0,0:00:20.26,0:00:20.28,Cap,,0,0,0,,{\pos(540,640)}OTHER {\c&H27F804&}SIDE{\c&HFFFFFF&} OF
+Dialogue: 0,0:00:20.28,0:00:20.34,Cap,,0,0,0,,{\pos(540,640)}OTHER SIDE {\c&H27F804&}OF{\c&HFFFFFF&}
+Dialogue: 0,0:00:20.34,0:00:20.60,Cap,,0,0,0,,{\pos(540,640)}{\c&H27F804&}THE{\c&HFFFFFF&} BAR
+Dialogue: 0,0:00:20.60,0:00:20.99,Cap,,0,0,0,,{\pos(540,640)}THE {\c&H27F804&}BAR{\c&HFFFFFF&}
